@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Score_Football_Player", "Score_Football_Player.pyproj", "{33A7D717-ECB3-429B-B6F6-74F0688D6169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33A7D717-ECB3-429B-B6F6-74F0688D6169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A7D717-ECB3-429B-B6F6-74F0688D6169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B4ACB6E-3669-447E-B6C2-B7EF66AB1D07}
+	EndGlobalSection
+EndGlobal
